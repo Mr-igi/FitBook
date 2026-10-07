@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FitBook.Api/FitBook.Api.csproj" />
+  <Project Path="FitBook.Tests/FitBook.Tests.csproj" />
+</Solution>
